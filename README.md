@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sridharanramesh
 - 👀 I’m interested in engineering data analysis
-- 🌱 I’m currently learning Optimization and Machine Learning Bootcmap
+- 🌱 I’m currently learning Optimization and Machine Learning (Bootcamp)
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me: sr1988@vt.edu
 
